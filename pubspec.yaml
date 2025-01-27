@@ -1,0 +1,49 @@
+name: Wemotions
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Commonly used Flutter packages
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  image_picker: ^1.1.2
+  permission_handler: ^11.3.1
+  loading_animation_widget: ^1.3.0
+  shared_preferences: ^2.3.5
+  video_player: ^2.9.2
+  camera: ^0.11.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Asset declarations
+  assets:
+    - assets/images/
+    - assets/icons/ # Ensure images are stored here, or adjust the path
+  # Fonts (Add custom fonts if required)
+  # fonts:
+  #   - family: YourFontFamily
+  #     fonts:
+  #       - asset: assets/fonts/YourFontFile.ttf
+  #       - asset: assets/fonts/YourFontFile-Bold.ttf
+  #         weight: 700
+
+# Optional plugin configurations
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png" # Placeholder for app icon
