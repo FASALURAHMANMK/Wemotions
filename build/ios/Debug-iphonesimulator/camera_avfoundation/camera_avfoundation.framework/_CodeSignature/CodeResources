@@ -18,19 +18,27 @@
 		</data>
 		<key>Headers/FLTCam.h</key>
 		<data>
-		2kfwTVZVbTq9Uca36qzyK5N8SS8=
+		lfVbl26/u69a272lvVwnNF0DR+o=
 		</data>
 		<key>Headers/FLTCamMediaSettingsAVWrapper.h</key>
 		<data>
-		gVa7pDil4JZpdreVozcYd/H7pAk=
+		8DDom4shHIPXj3zh6Swvz6KCQJs=
 		</data>
 		<key>Headers/FLTCam_Test.h</key>
 		<data>
-		/hQKoqT7ra03ZLV08gUcJD633qA=
+		k++IYGnCrpisRVR4P3afVOyjHvE=
 		</data>
 		<key>Headers/FLTCameraPermissionManager.h</key>
 		<data>
 		olnPb1iPX2bHnglW/pOwR18HEig=
+		</data>
+		<key>Headers/FLTCaptureDeviceControlling.h</key>
+		<data>
+		1Ubn/IDSgjdUBuQ/jz2ikpFqz2U=
+		</data>
+		<key>Headers/FLTDeviceOrientationProviding.h</key>
+		<data>
+		jqdVivzR8NvCdptQnRMf+j+jPrw=
 		</data>
 		<key>Headers/FLTPermissionServicing.h</key>
 		<data>
@@ -66,7 +74,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		JxOVSfZn85cSGFre7gmXyoEcmb8=
+		S/iARVS98vhnLgNdXFHdN8TukbU=
 		</data>
 		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -104,21 +112,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2sNqjvp3rKypcAnlNH7lSzb6N6Au01vHlznSmPtpQVo=
+			hIb/REZVqFVN0t1RWiVKGWh0BSLeBTx0xaNd9KdnR7w=
 			</data>
 		</dict>
 		<key>Headers/FLTCamMediaSettingsAVWrapper.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g66uG4D56hT6hlg7F1tZsbL0OIFnPLSeuVpOFJcU+3k=
+			1WQQ39svQHSnE5RZgaHiZa58dAtA35IGfQGTW10UO/0=
 			</data>
 		</dict>
 		<key>Headers/FLTCam_Test.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c8FKVrP7hO+3iZltVhTFd9KE321AfjGKc0BMu+bs7qU=
+			W4dX5YAZeXfDTkU6Dn3/HtxSiHcfUBM3xD6wETRqnOQ=
 			</data>
 		</dict>
 		<key>Headers/FLTCameraPermissionManager.h</key>
@@ -126,6 +134,20 @@
 			<key>hash2</key>
 			<data>
 			a6dp+5Zm/PDEsFij8FEDgPccY/BZ+Mqp69aXFskH0i4=
+			</data>
+		</dict>
+		<key>Headers/FLTCaptureDeviceControlling.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FbNadVGJsPS0XoeFazAKiQcRXT8aNebSD8sV27canLk=
+			</data>
+		</dict>
+		<key>Headers/FLTDeviceOrientationProviding.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iq1J8/Ffi7j7xwE0ymG1NmgjIDzpYvf6CxTjNcfWvv4=
 			</data>
 		</dict>
 		<key>Headers/FLTPermissionServicing.h</key>
@@ -181,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCyPJg/zm0bvT9WO6ORdOx+Gg/z1WqUv1rnZM/9fQKg=
+			jq6rsEUbrKf2QUTuyHDyFqHXDW7l4ZPTaTeEdRXWrkQ=
 			</data>
 		</dict>
 		<key>camera_avfoundation_privacy.bundle/Info.plist</key>

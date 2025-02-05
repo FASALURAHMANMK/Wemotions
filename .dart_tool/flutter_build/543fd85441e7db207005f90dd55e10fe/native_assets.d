@@ -1,0 +1,1 @@
+ /Users/niju/Desktop/Projects/wemotion/wemotions/Wemotions/.dart_tool/flutter_build/543fd85441e7db207005f90dd55e10fe/native_assets.yaml: 
